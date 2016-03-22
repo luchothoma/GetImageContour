@@ -1,0 +1,11 @@
+C:\Users\Luciano\AppData\Local\Temporary Projects\GetImageContour\bin\Debug\GetImageContour.exe.config
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\bin\Debug\GetImageContour.exe.config
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\bin\Debug\GetImageContour.exe
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\bin\Debug\GetImageContour.pdb
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\bin\Debug\GetImageContour.xml
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\obj\Debug\GetImageContour.Resources.resources
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\obj\Debug\GetImageContour.Principal.resources
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\obj\Debug\GetImageContour.vbproj.GenerateResource.Cache
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\obj\Debug\GetImageContour.exe
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\obj\Debug\GetImageContour.xml
+C:\Users\Luciano\Documents\Visual Studio 2012\Projects\GetImageContour\GetImageContour\obj\Debug\GetImageContour.pdb
